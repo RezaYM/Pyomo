@@ -1,0 +1,8 @@
+'''This problem uses the file ProblemData2.json. In this file are multiple knapsack
+problem instances. Each instance is a dictionary with three fields
+• size: a list of item sizes
+• value: a list of item values
+• capacity: the capacity of the knapsack
+For each instance solve the IP and the LP relaxation. Report the largest integrality gap, the smallest
+integrality gap, and the average integrality gap.
+Identify the instance that achieves the smallest integrality gap.'''
